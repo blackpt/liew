@@ -1,0 +1,1 @@
+A clone of Hiew for Linux, written in C++.
